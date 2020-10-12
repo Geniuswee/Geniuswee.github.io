@@ -1,0 +1,2 @@
+# Geniuswee.github.io
+blog
